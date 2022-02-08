@@ -73,3 +73,36 @@ button:hover {
     border: 3px #007ACD solid;
     color: #007ACD;
 }
+
+#name {
+    background-color: #333333;
+}
+
+::placeholder {
+    color: white;
+}
+
+#email {
+    background-color: #333333;
+}
+
+#message {
+    background-color: #333333;
+}
+
+.navbar {
+    position: fixed;
+    background-color: #333333;
+}
+
+.narbarStrech :hover {
+    top: 100px;
+}
+
+.navbar a {
+    color: #fffeb9;
+}
+
+.navbar a:hover {
+    color: #c7c412;
+}
